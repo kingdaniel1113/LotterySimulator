@@ -68,7 +68,7 @@ function Lottery() {
                 <button class="menuNavButton" onclick="player.generateSelectTicket()">Pick New Ticket Number</button>
                 <div>
                 <button class="menuNavButton" onclick="player.generateRandomTicket()">Generate Random Ticket Number</button>
-                <input type='text' value='' placeholder='Ticket quantity (max 100)' id="ticketQuantity" max="99"></input>
+                <input type='text' value='' placeholder='Ticket quantity (max 1000)' id="ticketQuantity" max="99"></input>
                 </div>
                 <button class="menuNavButton" onclick="player.clearTickets()">Throw away your tickets :(</button>
                 `

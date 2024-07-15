@@ -39,7 +39,7 @@ app.use(function(err, req, res, next) {
 });
 
 app.get('/', (req, res) => {
-    res.send("index.html")
+    res.send("./public/index.html")
 });
 
 module.exports = app;

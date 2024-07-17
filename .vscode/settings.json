@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/3dea82b3-b58e-4478-a9c9-ee2d973577a8/resourceGroups/learn-4672ca59-6dd4-4062-9ce3-d7f3bc8b4d9b/providers/Microsoft.Web/sites/LotterySimulator1",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
